@@ -43,6 +43,13 @@ public class gitDemo01 {
         System.out.println("push_test,用的是ssh的方式");
         System.out.println("push_test");
         System.out.println("push_test,用的是ssh的方式");
+        
+        //测试pull
+         System.out.println("测试:远程库到本地库 pull");
+         System.out.println("测试:远程库到本地库 pull");
+         System.out.println("测试:远程库到本地库 pull");
+
+
 
     }
 }
