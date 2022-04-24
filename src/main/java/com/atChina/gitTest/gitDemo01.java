@@ -24,6 +24,11 @@ public class gitDemo01 {
         System.out.println("master,合并冲突演练");
         System.out.println("master,合并冲突演练");
         System.out.println("master,合并冲突演练");
+        //合并冲突演练 hot-fix
+        System.out.println("合并冲突  hot-fix");
+        System.out.println("合并冲突  hot-fix");
+        System.out.println("合并冲突  hot-fix");
+
 
 
     }
