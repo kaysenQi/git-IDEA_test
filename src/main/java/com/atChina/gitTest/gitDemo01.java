@@ -29,6 +29,10 @@ public class gitDemo01 {
         System.out.println("合并冲突  hot-fix");
         System.out.println("合并冲突  hot-fix");
 
+        //IDEA创建远程库,和二为一,一般是两步,先在GitHub上创建远程库,然后再push
+        System.out.println("IDEA,创建远程库");
+        System.out.println("IDEA,创建远程库");
+        System.out.println("IDEA,创建远程库");
 
 
     }
