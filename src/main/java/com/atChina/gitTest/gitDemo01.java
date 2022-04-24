@@ -56,6 +56,10 @@ public class gitDemo01 {
         System.out.println("测试push02,第二次push,但是远程库中有代码没有pull,会产生什么?");
         System.out.println("测试push02,第二次push,但是远程库中有代码没有pull,会产生什么?");
 
+        //push03 (冲突搞定,第三次push)
+        System.out.println("第三次push,test");
+        System.out.println("第三次push,test");
+        System.out.println("第三次push,test");
 
 
     }
