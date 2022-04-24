@@ -44,10 +44,11 @@ public class gitDemo01 {
         System.out.println("push_test");
         System.out.println("push_test,用的是ssh的方式");
 
-        //测试push02
+        //测试push02  (测试结果,本地库和远程库的代码有冲突,ssh拒绝)
         System.out.println("测试push02,第二次push,但是远程库中有代码没有pull,会产生什么?");
         System.out.println("测试push02,第二次push,但是远程库中有代码没有pull,会产生什么?");
         System.out.println("测试push02,第二次push,但是远程库中有代码没有pull,会产生什么?");
+
 
 
     }
