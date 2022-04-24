@@ -20,6 +20,10 @@ public class gitDemo01 {
         System.out.println("hot-fix test011111");
         System.out.println("hot-fix test011111");
 
+        //和并冲突演练  master
+        System.out.println("master,合并冲突演练");
+        System.out.println("master,合并冲突演练");
+        System.out.println("master,合并冲突演练");
 
 
     }
