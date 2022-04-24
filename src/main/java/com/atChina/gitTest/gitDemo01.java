@@ -34,6 +34,15 @@ public class gitDemo01 {
         System.out.println("IDEA,创建远程库");
         System.out.println("IDEA,创建远程库");
 
+        //测试push
+        System.out.println("push_test");
+        System.out.println("push_test,用的是ssh的方式");
+        System.out.println("push_test");
+        System.out.println("push_test,用的是ssh的方式");
+        System.out.println("push_test");
+        System.out.println("push_test,用的是ssh的方式");
+        System.out.println("push_test");
+        System.out.println("push_test,用的是ssh的方式");
 
     }
 }
